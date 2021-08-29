@@ -1,6 +1,4 @@
 ## Usage
 
-```sh
 npm i
 ts-node cli.ts input.csv > output.csv
-`
